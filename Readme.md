@@ -1,7 +1,5 @@
 # Prova para jovem aprendiz de desenvolvimento
 
-<hr>
-
 ## Instruções de execução
 
 1. Rodar o arquivo Main da aplicação dentro da IDE;
