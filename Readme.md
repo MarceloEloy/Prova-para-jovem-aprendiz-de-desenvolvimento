@@ -34,6 +34,8 @@
 ### Se tivesse mais 15 minutos, o que verificaria ou melhoraria primeiro e por quê?
 <p> Para este projeto eu adicionaria uma forma de cadastro simulando um banco de dados utilizando ferramentas presentes no próprio Java.</p>
 
+<hr>
+
 ## Ferramentas
 
 <p>Utilizei apenas da ferramente de IA Gemini exclusivamente para me auxiliar na criação da tabela de testes. </p>
