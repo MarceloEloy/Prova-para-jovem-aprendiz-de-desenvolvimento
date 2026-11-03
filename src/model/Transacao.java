@@ -10,7 +10,7 @@ public class Transacao {
 
         if (cliente.getSaldo() >= servico.getPreco()){
             System.out.println("-----------------------------------------------------------------");
-            System.out.printf("Saldo inicial do cliente %d %n", cliente.getSaldo());
+            System.out.printf("Saldo inicial do cliente: %d %n", cliente.getSaldo());
             cliente.setSaldo(cliente.getSaldo() - servico.getPreco());
             System.out.printf("Foram pagos %d da conta do cliente %s por consumo do serviço %s %n", servico.getPreco(), cliente.getNomeCliente(), servico.getNomeServico());
         } else if (cliente.getSaldo() < servico.getPreco()) {
