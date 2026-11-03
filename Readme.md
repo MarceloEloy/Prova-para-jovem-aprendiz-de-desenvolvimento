@@ -5,7 +5,7 @@
 1. Rodar o arquivo Main da aplicação dentro da IDE;
 2. Responder às perguntas no terminal com "s" ou "n" dependendo da funcionalidade escolhida para usar;
 3. Para criação de operação cliente serviço responder às perguntas no terminal inserindo os dados de cliente e serviço (nome, saldo/preço) com valores (string, inteiro);
-4. Para verificação de testes apenas responder a última pergunta do terminal com "s".
+4. Para verificação de testes apenas responder a pergunta do terminal referente a etapa de testes com "s".
 
 <hr>
 
